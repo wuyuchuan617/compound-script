@@ -1,0 +1,3 @@
+[submodule "lib/compound-protocol"]
+	path = lib/compound-protocol
+	url = https://github.com/compound-finance/compound-protocol
